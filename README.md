@@ -87,5 +87,5 @@ So I used it to determine the best value for a threshold to get weights for the 
 
 #### How to make the model even better ?
 1. More data, the dataset only was around ~8k samples.
-2. To use shop review data instead of given movie review data.
+2. To use **shop review data** instead of given **movie review data**.
 3. To use more bigger embeddings like Glove 840 billion 300 dimension embeddings.
